@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+google-generativeai
+pymupdf 
+python-docx
+pydantic
+pydantic[email]
+python-dotenv
